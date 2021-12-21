@@ -1,0 +1,8 @@
+{
+    "NacosUser": "vEWP/VI1zH6zVnqLG4kFyw==",
+    "NacosPasswd": "BwK2n7lb959oafLKS5/lUA==",
+    "NAMESPACE": "",
+    "NacosServer": "http://itop.h3c.com:8748",
+    "NacosServiceName": "UpgradeCloud",
+    "NacosPort": "8010"
+}
