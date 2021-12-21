@@ -1,0 +1,8 @@
+{
+    "NacosServer": "http://10.90.17.76:8088",
+    "NacosUser": "KOfN26rrPvBHuKqNMntXtw==",
+    "NacosPasswd": "D8iqmwvBFuxsKEC0jxgzwQ==",
+    "NAMESPACE": "",
+    "NacosServiceName": "UpgradeCloud",
+    "NacosPort": "8010"
+}
