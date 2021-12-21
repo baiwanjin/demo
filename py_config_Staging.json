@@ -1,0 +1,16 @@
+{
+    "data_host_ip": "10.165.9.192",
+    "SERVER_ADDRESSES": "http://10.90.17.76:8088",
+    "NAMESPACE": "",
+    "NacosServiceName": "UpgradeCloud",
+    "NacosPort": "8010",
+    "data_host_passwd": "ASNBkALdNtIzrCSMzZeQVg==",
+    "VDI_admin": "TyitvvayKxHuRALPGr+f5caWXB61/g93OdwVJQFOIKg=",
+    "VDI_admin_passwd": "TyitvvayKxHuRALPGr+f5cxQxmsmBGvnPKawvAxZG4Q=",
+    "host_Avail_min": 51,
+    "win_Avail_min": 10.0,
+    "linux_Avail_min": 10,
+    "AppKey": "Zkw+RU75DQQ2sr+t98SeDMCR9IjxFsZfRe2N6yhzKJ6qRLefowwCB//t8YpJyXZV",
+    "UserId": "33BZrqki/WONuwf6x/dRfg==",
+    "UserName": "Tfq9jpxuIDOBAKfb9DpqTg=="
+}
